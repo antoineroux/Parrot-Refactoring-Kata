@@ -34,4 +34,8 @@ public class Parrot {
         return 12.0;
     }
 
+    public ParrotTypeEnum getType() {
+        return type;
+    }
+
 }
