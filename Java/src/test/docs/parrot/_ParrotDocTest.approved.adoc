@@ -1,8 +1,0 @@
-ifndef::ROOT_PATH[:ROOT_PATH: ..]
-
-[#parrot_parrotdoctest]
-= Parrot doc test
-
-include::_ParrotDocTest.parrotList.approved.adoc[leveloffset=+1]
-
-include::_ParrotDocTest.norwegianBlueIsReallySpecial.approved.adoc[leveloffset=+1]

@@ -1,2 +1,0 @@
-= Doc parrot
-include::test_doc_parrot.test_parrot_list.approved.adoc[leveloffset=+1]
